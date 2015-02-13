@@ -1,0 +1,12 @@
+{
+  "name": "spring-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "jquery#1.11.2"
+  },
+  "overrides": {
+      "jquery": {
+          "main": "dist/jquery.min.js"
+      }
+  }
+}
